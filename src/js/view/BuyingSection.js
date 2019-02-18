@@ -24,6 +24,9 @@ export function createBuyingSection(){
               <form class="card p-2">
                 <div class="input-group">
                   <input type="text" class="form-control" placeholder="">
+                  <div class="">
+                    <button id="totalprice" ></button>
+                  </div>
                   <div class="input-group-append">
                     <button id="buybtn" type="submit" class="btn btn-secondary">Buy</button>
                   </div>

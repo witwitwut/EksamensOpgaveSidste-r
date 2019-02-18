@@ -4,3 +4,13 @@ body {
 }
 
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+
+.img-card{
+  object-fit: cover;
+  height: 200px;
+}
+
+.card-text{
+  font-size: 1rem ;
+}
